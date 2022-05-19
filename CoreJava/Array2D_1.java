@@ -8,6 +8,8 @@ public class Array2D_1
 
 		percent[0][1] = 98;
 		percent[1][2] = 72.2;
+		percent[1][1] = 34.3;
+		percent[2][1] = 55.2;
 
 		for ( int r = 0 ; r<3 ; r++ )
 		{
