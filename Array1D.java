@@ -15,8 +15,6 @@ public class Array1D
 		System.out.println(percent[4]); // 78.33
 		System.out.println(percent[5]); // 0.0
 
-		System.out.println("=======Using For Loop==========");
-
 		for(int i=0 ; i<6 ; i++) 
 		{
 			System.out.println(percent[i]);
